@@ -1,6 +1,7 @@
 # FH-SH-Football-Health-Safeguarding-Hub
 AI-Powered Digital Clinic for Football Health, Injury Prevention, and Player Safeguarding
 # ⚽ FH & SH – Football Health & Safeguarding Hub
+The platform was built with passion, resilience, and technology - developed with the help of IBM Granite Playground and cloude.
 
 > **AI-Powered Digital Clinic for Football Health, Injury Prevention, and Player Safeguarding**
 
